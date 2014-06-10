@@ -8,7 +8,7 @@ This repository contains a handful of Xcode themes.
 
 # Installation
 ```
-git clone git@github.com:jbrennan/xcode4themes.git
+git clone git@github.com:anjerodesu/xcode-themes.git
 mkdir -p ~/Library/Developer/Xcode/UserData/FontAndColorThemes/
 cp *.dvtcolortheme ~/Library/Developer/Xcode/UserData/FontAndColorThemes/
 ```
